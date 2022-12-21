@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SimonWanjir
+- 👋 Hi, I’m @SimonWanjir, a programmer
 - 👀 I’m interested in devops, fintech and blockchain
-- 🌱 I’m currently learning golang and python
+- 🌱 I’m currently learning go and python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @simwanjir@gmail.com
 
