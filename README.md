@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SimonWanjir, a programmer
-- 👀 I’m interested in devops, fintech and blockchain
+- 👀 I’m interested in devops and fintech
 - 🌱 I’m currently learning go and python
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me @simwanjir@gmail.com
